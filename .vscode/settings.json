@@ -29,5 +29,5 @@
         "**/__pycache__": true,
         "**/Prerequisites": true,
     },
-    "python.pythonPath": "C:\\Users\\ehsan\\.virtualenvs\\pyrevit-dev-2PO7Kqjk\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\mmohdarshad\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe"
 }
